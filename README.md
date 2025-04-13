@@ -1,7 +1,7 @@
 **👋 Hi, I’m @RidSoftware**
 --
-- 👀 I’m interested in maths, AI, Computer Hardware and most things CompSci
-- 🌱 I’m currently learning at HeriotWatt University
+- 👀 I’m interested in Maths, AI, Computer Hardware and most things CompSci
+- 🌱 I’m currently learning at Heriot-Watt University
 - 💞️ I’m looking to collaborate on anything you'd like to share
 - 📫 How to reach me cm2103@hw.ac.uk
 - 😄 Pronouns: Him
