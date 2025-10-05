@@ -3,7 +3,7 @@
 - 👀 I’m interested in Maths, AI, Computer Hardware and most things CompSci.
 - 🌱 I’m currently learning at Heriot-Watt University
 - 💞️ I’d love to collaborate on anything you'd like to share
-- 📫 How to reach me cm2103@hw.ac.uk
+- 📫 How to reach me calum.murray.2025@gmail.com
 
 
 <!---
